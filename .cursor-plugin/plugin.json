@@ -1,0 +1,11 @@
+{
+  "name": "connectmachine",
+  "description": "Manage your ConnectMachine contacts, events, networks, and digital business cards from Cursor. Create and find contacts, track the events where you met people, and update your cards in natural language.",
+  "version": "1.0.0",
+  "author": {
+    "name": "ConnectMachine",
+    "email": "dev@connectmachine.ai"
+  },
+  "license": "MIT",
+  "logo": "assets/logo.png"
+}

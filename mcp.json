@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "connectmachine": {
+      "url": "https://mcp.connectmachine.ai/mcp"
+    }
+  }
+}
